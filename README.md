@@ -1,13 +1,13 @@
 <h1 align="center">Olá, eu sou Guilherme Silva</h1>
-<h3 align="center">Programador back-end em formação</h3>
+<h3 align="center">💻 Desenvolvedor Back-end | Java & Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apenasgui&label=Profile%20views&color=0e75b6&style=flat" alt="apenasgui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apenasgui" alt="apenasgui" /></a> </p>
 
-- 🔭 Atualmente trabalhando no projeto **gamificação-rotina**
+- 🔭 Desenvolvendo API REST de gamificação de tarefas com Java e Spring Boot **gamificação-rotina**
 
-- 🌱 Atualmente estudando: **Spring Boot, MongoDB**
+- 🌱 Aprofundando conhecimentos em Spring Boot, MongoDB e arquitetura back-end **Spring Boot, MongoDB**
 
 - 👯 Trabalhando em contribuição com a universidade no projeto **Sprint-Tracker**
 
@@ -22,3 +22,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apenasgui&show_icons=true&locale=en" alt="apenasgui" /></p>
 
+## 🚀 Projetos em destaque
+
+### 🔹 Projeto Colaborativo KanBan
+API REST com sistema de níveis, experiência e autenticação JWT
+➡️ https://github.com/fabrica-bayarea/Sprint-Tracker
