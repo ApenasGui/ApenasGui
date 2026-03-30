@@ -1,9 +1,5 @@
-<h1 align="center">Olá, eu sou Guilherme Silva</h1>
+<h1 align="center">Guilherme Silva</h1>
 <h3 align="center">💻 Desenvolvedor Back-end | Java & Spring Boot</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apenasgui&label=Profile%20views&color=0e75b6&style=flat" alt="apenasgui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apenasgui" alt="apenasgui" /></a> </p>
 
 - 🔭 Desenvolvendo API REST de gamificação de tarefas com Java e Spring Boot **gamificação-rotina**
 
