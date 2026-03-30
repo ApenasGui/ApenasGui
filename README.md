@@ -11,6 +11,12 @@
 
 - 👯 Trabalhando em contribuição com a universidade no projeto **Sprint-Tracker**
 
+## 🚀 Projetos em destaque
+
+### 🔹 Projeto Colaborativo KanBan
+API REST com sistema de níveis, experiência e autenticação JWT
+➡️ https://github.com/fabrica-bayarea/Sprint-Tracker
+
 - 📫 Meu email: **guilhermesilvac.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apenasgui&show_icons=true&locale=en" alt="apenasgui" /></p>
 
-## 🚀 Projetos em destaque
 
-### 🔹 Projeto Colaborativo KanBan
-API REST com sistema de níveis, experiência e autenticação JWT
-➡️ https://github.com/fabrica-bayarea/Sprint-Tracker
