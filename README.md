@@ -1,19 +1,81 @@
-<h1 align="center">Guilherme Silva</h1>
-<h3 align="center">💻 Desenvolvedor Back-end | Java & Spring Boot</h3>
+<div align="center">
 
-- 🔭 Desenvolvendo API REST de gamificação de tarefas com Java e Spring Boot **gamificação-rotina**
+# Olá, eu sou o Guilherme 👋
 
-- 🌱 Aprofundando conhecimentos em Spring Boot, MongoDB e arquitetura back-end **Spring Boot, MongoDB**
+### Desenvolvedor Back-end · Node.js · NestJS · TypeScript · Prisma · PostgreSQL
 
-- 👯 Trabalhando em contribuição com a universidade no projeto **Sprint-Tracker**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2D9CDB&center=true&vCenter=true&width=520&lines=Desenvolvedor+Back-end;NestJS+%2B+Prisma+%2B+PostgreSQL;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
-## 🚀 Projetos em destaque
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-silvadev/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermesilvac.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guui__silva)
 
-### 🔹 Projeto Colaborativo KanBan
-API REST com sistema de níveis, experiência e autenticação JWT
-➡️ https://github.com/fabrica-bayarea/Sprint-Tracker
+</div>
 
-- 📫 Entre em contato aqui **guilhermesilvac.dev@gmail.com**
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Tecnologia da Informação** no IESB (Brasília/DF) — conclusão prevista para 07/2027
+- 💻 Foco em desenvolvimento **back-end**: APIs REST, autenticação, modelagem de banco de dados e arquitetura modular
+- 🔭 Atualmente contribuindo como Desenvolvedor Back-end no projeto open source **[Sprint-Tracker](https://github.com/fabrica-bayarea/Sprint-Tracker)**, em parceria com o IESB
+- 🌱 Aprofundando conhecimentos em NestJS, Docker e IA aplicada
+- 🕹️ Curioso por tecnologia desde criança — comecei formatando PC e customizando Windows, hoje aplico essa curiosidade no código
+- 📫 Contato: **guilhermesilvac.dev@gmail.com**
+
+<br>
+
+## 🛠️ Stack principal
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br>
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🔹 **[Sprint-Tracker](https://github.com/fabrica-bayarea/Sprint-Tracker)** | Gestão de tarefas com quadros (kanban), sistema de níveis/experiência e autenticação JWT. Projeto open source em parceria com o IESB | `NestJS` `Prisma` `PostgreSQL` `Docker` `JWT` |
+| 🔹 **Eventify** *(adicionar link do repositório)* | Sistema de gestão de eventos e participantes | `Node.js` `NestJS` |
+| 🔹 **EduMap** *(adicionar link do repositório)* | Plataforma interativa de visualização de dados educacionais do Brasil | *(adicionar stack)* |
+| 🔹 **Segundo Cérebro** *(adicionar link do repositório)* | Gerenciador de estudos com repetição espaçada | *(adicionar stack)* |
+| 🔹 **Loja de Crochê** *(adicionar link do repositório)* | Loja virtual para peças de crochê feitas à mão | *(adicionar stack)* |
+
+> 💡 Troque os itens marcados como *"adicionar link"* pelas URLs reais dos repositórios assim que estiverem públicos — isso é o que mais aumenta a chance de um recrutador clicar e ver o código.
+
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ApenasGui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasGui&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ApenasGui&theme=tokyonight&hide_border=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+💬 Sempre aberto para trocar ideia sobre back-end, arquitetura de software e boas práticas — e para novas oportunidades na área!
+
+</div>
