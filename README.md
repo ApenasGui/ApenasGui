@@ -50,6 +50,7 @@
 | 🔹 **[Sprint-Tracker](https://github.com/fabrica-bayarea/Sprint-Tracker)** | Gestão de tarefas com quadros (kanban), sistema de níveis/experiência e autenticação JWT. Projeto open source em parceria com o IESB | `NestJS` `Prisma` `PostgreSQL` `Docker` `JWT` |
 | 🔹 **[Sebo de livros](https://github.com/ApenasGui/projeto-fullstack-sebo-livros)** | Sistema de gestão de um sebo de livros | `Node.js` `React` `Docker` |
 | 🔹 **[Locadora de Filmes](https://github.com/ApenasGui/projeto-locadora)**  | Sistema de gerenciamente de uma locadora de filmes | `Node.js` `React` `Docker` |
+| 🔹 **[ChatBOT](https://github.com/fabrica-bayarea/Chat-2026-2)**  | ChatBOT para ajudar o usuário a navegar no site e dar informações | `Nest.js` `Ollama` `MastraCore` |
 
 > 💡 Troque os itens marcados como *"adicionar link"* pelas URLs reais dos repositórios assim que estiverem públicos — isso é o que mais aumenta a chance de um recrutador clicar e ver o código.
 
