@@ -48,10 +48,8 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🔹 **[Sprint-Tracker](https://github.com/fabrica-bayarea/Sprint-Tracker)** | Gestão de tarefas com quadros (kanban), sistema de níveis/experiência e autenticação JWT. Projeto open source em parceria com o IESB | `NestJS` `Prisma` `PostgreSQL` `Docker` `JWT` |
-| 🔹 **Eventify** *(adicionar link do repositório)* | Sistema de gestão de eventos e participantes | `Node.js` `NestJS` |
-| 🔹 **EduMap** *(adicionar link do repositório)* | Plataforma interativa de visualização de dados educacionais do Brasil | *(adicionar stack)* |
-| 🔹 **Segundo Cérebro** *(adicionar link do repositório)* | Gerenciador de estudos com repetição espaçada | *(adicionar stack)* |
-| 🔹 **Loja de Crochê** *(adicionar link do repositório)* | Loja virtual para peças de crochê feitas à mão | *(adicionar stack)* |
+| 🔹 **[Sebo de livros](https://github.com/ApenasGui/projeto-fullstack-sebo-livros)** | Sistema de gestão de um sebo de livros | `Node.js` `React` `Docker` |
+| 🔹 **[Locadora de Filmes](https://github.com/ApenasGui/projeto-locadora)**  | Sistema de gerenciamente de uma locadora de filmes | `Node.js` `React` `Docker` |
 
 > 💡 Troque os itens marcados como *"adicionar link"* pelas URLs reais dos repositórios assim que estiverem públicos — isso é o que mais aumenta a chance de um recrutador clicar e ver o código.
 
